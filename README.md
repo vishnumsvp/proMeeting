@@ -1,4 +1,5 @@
 # ProMeet
+This is a self-learning application, where the user can view the meetings scheduled for them. 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
 
